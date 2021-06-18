@@ -15,8 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: BlocProvider<PostBloc>(
-          builder: (context) => PostBloc()..add(PostEvent()),
-          child: MainPage()),
+          create: (context) => PostBloc()..add(PostEvent()), child: MainPage()),
     );
   }
 }

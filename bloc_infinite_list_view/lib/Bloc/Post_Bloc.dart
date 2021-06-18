@@ -25,8 +25,10 @@ class PostLoaded extends PostState {
 }
 
 class PostBloc extends Bloc<PostEvent, PostState> {
-  @override
-  PostState get initialState => PostUninitialized();
+  PostBloc() : super(PostUninitialized());
+
+  // @override
+  // PostState get initialState => PostUninitialized();
 
   @override
   Stream<PostState> mapEventToState(PostEvent event) async* {
