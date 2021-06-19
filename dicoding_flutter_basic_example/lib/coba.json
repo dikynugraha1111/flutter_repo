@@ -1,0 +1,58 @@
+{
+    "data":[
+  {
+    "ticketPrice": "Rp 25000",
+    "name": "Kopi London",
+    "desc": "Kopi dengan racikan London gula mentega rasanya kek ironman",
+    "photo" : "https://image-cdn.medkomtek.com/kqxfebdrvnfv6jCfsJa-QOzuu3s=/1x49:1000x612/1200x675/klikdokter-media-buckets/medias/2302800/original/045285900_1547016776-4-Cara-Bikin-Kebiasaan-Minum-Kopi-Jadi-Lebih-Sehat-By-Ruslan-Semichev-Shutterstock.jpg"
+  },
+  {
+    "ticketPrice": "Rp 20000",
+    "name": "Robusta",
+    "desc": "Kopi dengan racikan nikmat tanpa pemanis buatan mantan",
+    "photo": "https://cdns.klimg.com/merdeka.com/i/w/news/2020/10/16/1232157/540x270/mengenal-perbedaan-kopi-robusta-dan-arabika-ketahui-karakteristiknya.jpg"
+  },
+  {
+    "ticketPrice": "Free",
+    "name": "Americano",
+    "desc": "Kopi asli dari paman jo abi den... diminum sehari 24 kali",
+    "photo": "https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/GBATXlxns6.jpg"
+  },
+  {
+    "ticketPrice": "Rp 26000",
+    "name": "Kopi Nusantara",
+    "desc": "Kopi asli dari Kerajaan Sunda Empire",
+    "photo": "https://asset.kompas.com/crops/3RNjNkRitPrA_lCjMW_Ct17XHME=/0x0:0x0/750x500/data/photo/2020/01/26/5e2d252be1431.jpg"
+  },
+  {
+    "ticketPrice": "Rp 30000",
+    "name": "Kopi Nusantara",
+    "desc": "Kopi asli dari Kerajaan Sunda Empire",
+    "photo": "https://asset.kompas.com/crops/3RNjNkRitPrA_lCjMW_Ct17XHME=/0x0:0x0/750x500/data/photo/2020/01/26/5e2d252be1431.jpg"
+  },
+  {
+    "ticketPrice": "Rp 20000",
+    "name": "Kopi Nescafe",
+    "desc": "Kopinya anak kos tanggal tua",
+    "photo": "https://cdn-2.tstatic.net/bali/foto/bank/images/tanggal-tua_20170831_160221.jpg"
+  },
+  {
+    "ticketPrice": "Rp 30000",
+    "name": "Soda Mendung",
+    "desc": "Kami ciptakan minuman mendung, karena yang gembira belum tentu bahagia",
+    "photo": "https://cdn-2.tstatic.net/palu/foto/bank/images/es-soda-gembira-instagrampakkostamboel.jpg"
+  },
+  {
+    "ticketPrice": "Rp 15000",
+    "name": "Kopi Accademy",
+    "desc": "Kopinya anak pintar, sekali sruput langsung sikat",
+    "photo": "https://www.brasilmoka-coffee.com/media/cache/bigrectangle/files/pages/11/istock-brewing.jpg"
+  },
+  {
+    "ticketPrice": "Rp 10000",
+    "name": "Kopiin aja",
+    "desc": "Seketika kopi melegakan jiwa",
+    "photo": "https://www.brasilmoka-coffee.com/media/cache/bigrectangle/files/pages/11/istock-brewing.jpg"
+  }
+]
+}
